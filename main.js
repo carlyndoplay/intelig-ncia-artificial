@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "A conracepção é o ato de evitar a gravidez. Os métodos dse controle incluem medicamntos, procedimentos, dispositivos e comportamentos",
+        enunciado: "A conracepção é o ato de evitar a gravidez. Os métodos dse controle incluem medicamentos, procedimentos, dispositivos e comportamentos",
         alternativas: [
             {
                 texto: "Médotodos de barreiras: como preservativos masculios e femininos, diafragma e esponja contaceptivo",
@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Dispositivos intrauterinos (DIU): como diu hormonal e diu de cobre",
-                afirmacao: "Métoos  emergência: como pilula do dia seguinte e diu e cobre como contracepção de emergência"
+                afirmacao: "Métodos  emergência: como pilula do dia seguinte e diu e cobre como contracepção de emergência"
             }
         ]
     },
