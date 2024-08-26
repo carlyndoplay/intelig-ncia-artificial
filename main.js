@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "A conracepção é o ato de evitar a grai. Os métodos dse controle incluem medicamntos, procedimentos, dispositivos e comportamentos",
+        enunciado: "A conracepção é o ato de evitar a gravidez. Os métodos dse controle incluem medicamntos, procedimentos, dispositivos e comportamentos",
         alternativas: [
             {
                 texto: "Médotodos de barreiras: como preservativos masculios e femininos, diafragma e esponja contaceptivo",
